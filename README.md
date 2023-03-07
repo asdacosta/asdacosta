@@ -3,9 +3,6 @@
 
 - 🌱 Currently learning: theodinproject(TOP)
 - 📫 Reach me via: asdacosta18@gmail.com 
----
-:scroll: Code: 
-> Dream your biggest, work your hardest, and be your greatest.
 
 <details>
 <summary>Top Languages Rank</summary>
@@ -24,3 +21,4 @@
  <img alt="YOUR-ALT-TEXT" src="https://checkmarx.com/wp-content/uploads/2020/08/shutterstock_1078387013-1240x620.jpg">
 </picture>
 
+> 📜 ~ Dream your biggest, work your hardest, and be your greatest.
