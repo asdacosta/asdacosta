@@ -11,7 +11,7 @@
 |-----:|---------------|
 |     1| Bash Shell |
 |     2| HTML |
-|     3| CSSS |
+|     3| CSS |
 
 </details>
 
