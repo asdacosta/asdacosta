@@ -7,11 +7,11 @@
 <details>
 <summary>Top Languages Rank</summary>
 
-| Rank | THING-TO-RANK |
+| Rank | Language |
 |-----:|---------------|
-|     1| Bash Shell    |
-|     2|               |
-|     3|               |
+|     1| Bash Shell |
+|     2| HTML |
+|     3| CSSS |
 
 </details>
 
