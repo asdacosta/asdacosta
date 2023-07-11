@@ -9,9 +9,10 @@
 
 | Rank | Language |
 |-----:|---------------|
-|     1| Bash Shell |
-|     2| HTML |
-|     3| CSS |
+|     1| JavaScript |
+|     2| CSS |
+|     3| HTML |
+|     4| Bash Shell|
 
 </details>
 
