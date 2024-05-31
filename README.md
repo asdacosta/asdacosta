@@ -1,4 +1,4 @@
-## Welcome to my world :globe_with_meridians:
+## Bienvenue dans mon monde de développement :globe_with_meridians:
 
 
 - 🌱 Currently learning: theodinproject(TOP)
