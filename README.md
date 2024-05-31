@@ -1,17 +1,27 @@
-## Bienvenue dans mon monde de développement :globe_with_meridians:
+## Bienvenue Dans Mon Monde De Développement :globe_with_meridians:
 
 
 - 🌱 Currently focusing: theodinproject(TOP)
 
 <details>
-<summary>Top Languages Rank</summary>
+<summary>Acquainted Technologies Rank</summary>
 
 | Rank | Language |
 |-----:|---------------|
 |     1| JavaScript |
 |     2| CSS |
 |     3| HTML |
-|     4| Bash Shell|
+|     4| React |
+|     5| NodeJS|
+|     6| Linux |
+|     7| GIT |
+|     8| Webpack |
+|     9| VS Code|
+|     10| ESLint |
+|     11| Prettier |
+|     12| Babel |
+|     13| Vite |
+|     14| Vercel |
 
 </details>
 
