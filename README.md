@@ -1,7 +1,7 @@
 ## Bienvenue Dans Mon Monde De Développement :globe_with_meridians:
 
 
-- 🌱 Currently focusing: theodinproject(TOP)
+- 🌱 Currently focusing: [The Odin Project](https://www.theodinproject.com/)
 
 <details>
 <summary>Acquainted Technologies Rank</summary>
