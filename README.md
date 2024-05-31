@@ -1,8 +1,7 @@
 ## Bienvenue dans mon monde de développement :globe_with_meridians:
 
 
-- 🌱 Currently learning: theodinproject(TOP)
-- 📫 Reach me via: asdacosta18@gmail.com 
+- 🌱 Currently focusing: theodinproject(TOP)
 
 <details>
 <summary>Top Languages Rank</summary>
