@@ -5,7 +5,7 @@
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
 [![major projects](https://img.shields.io/badge/major_projects-555555?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)]()
 [![blog](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=blogger&logoColor=white)]()
-[![portfolio](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=apple&logoColor=white)]()
+[![template](https://img.shields.io/badge/template-555555?style=for-the-badge&logo=apple&logoColor=white)]()
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
 [![youtube](https://img.shields.io/badge/youtube-555555?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)]()
