@@ -91,9 +91,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&custom_title=Top%20%Languages" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time%20Stats&theme=prussian" alt="Your WakaTime Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time%20Stats&theme=prussian" alt="Your WakaTime Stats" />
 </a>
-
 
 </details>
 
