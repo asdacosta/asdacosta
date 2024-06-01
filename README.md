@@ -91,10 +91,9 @@
 
 ### 📈 Stats
 
-![Top Langs]()
-
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact' alt='Top Languages' />
+  <br/>
   <a href="https://github.com/asdacosta/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&theme=prussian&card_width=600&card_height=200&rank_icon=github&custom_title=Yearly%20Metrics" alt="GitHub stats" />
   </a>
