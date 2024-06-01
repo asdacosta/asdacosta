@@ -4,6 +4,17 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=chrome&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=behance&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=color-hex&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=artstation&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=cvcircle&logoColor=white)]()
+
+
 <details>
 <summary>Acquainted Technologies Rank</summary>
 
