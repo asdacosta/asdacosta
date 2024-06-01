@@ -8,7 +8,9 @@
 [![portfolio](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=apple&logoColor=white)]()
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
 [![youtube](https://img.shields.io/badge/youtube-555555?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![resume](https://img.shields.io/badge/resume-555555?style=for-the-badge&logo=file-text&logoColor=white)]()
+[![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)]()
+
+
 
 
 
