@@ -29,7 +29,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
- <img alt="DevOps Icons" src="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg" style="height:100px;">
+ <img alt="DevOps Icons" src="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg" style="height:20px;">
 </picture>
 
 
