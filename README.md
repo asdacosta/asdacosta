@@ -44,7 +44,7 @@
 </p>
 
 <picture>
- <img alt="DevOps Icons" src="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
+ <img alt="DevOps Icons" src="[https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg](https://www.shutterstock.com/image-vector/devops-banner-web-icon-set-vector-2454680481)">
 </picture>
 
 
