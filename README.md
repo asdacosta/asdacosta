@@ -1,5 +1,6 @@
 ## Bienvenue Dans Mon Monde De Développement :globe_with_meridians:
 
+> 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 - 🌱 Currently focusing: [The Odin Project](https://www.theodinproject.com/)
 
@@ -33,4 +34,3 @@
 
 
 
-> 📜 ~ Dream your biggest, work your hardest, and be your greatest.
