@@ -1,7 +1,9 @@
 ## Bienvenue Dans Mon Monde De Développement :globe_with_meridians:
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-### Links ⛓
+- 🌱 Currently focusing: [The Odin Project](https://www.theodinproject.com/)
+
+### ⛓ Links 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
 [![major projects](https://img.shields.io/badge/major_projects-555555?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)]()
 [![blog](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=blogger&logoColor=white)]()
@@ -10,7 +12,7 @@
 [![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)]()
 [![Mail](https://img.shields.io/badge/reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-### Socials 💬
+### 💬 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-silvanus-dacosta-99b9b41b8/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaCostaSilvan_s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evergre_n/)
@@ -18,7 +20,7 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]()
 
 <details>
-<summary> Acquainted Technologies ⚖️</summary>
+<summary> ⚖️ Acquainted Technologies</summary>
 
 | Rank | Language     |
 |-----:|--------------|
