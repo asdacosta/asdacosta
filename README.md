@@ -23,7 +23,7 @@
 <details>
 <summary> ⚖️ Acquainted Technologies</summary>
 
-| Rank | Language     |
+| Rank | Technology     |
 |-----:|--------------|
 |     1| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/><strong>JavaScript</strong></p> |
 |     2| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br/><strong>CSS</strong></p> |
@@ -39,6 +39,23 @@
 |    12| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" /><br/><strong>Babel</strong></p> |
 |    13| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" /><br/><strong>Vite</strong></p> |
 |    14| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" /><br/><strong>Vercel</strong></p> |
+
+| Rank | Language     |
+|-----:|--------------|
+|     1| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a><br/><strong>JavaScript</strong></p> |
+|     2| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /></a><br/><strong>CSS</strong></p> |
+|     3| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /></a><br/><strong>HTML</strong></p> |
+|     4| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a><br/><strong>React</strong></p> |
+|     5| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a><br/><strong>Node.js</strong></p> |
+|     6| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a><br/><strong>Linux</strong></p> |
+|     7| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="GIT" width="48" height="48" /></a><br/><strong>GIT</strong></p> |
+|     8| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="48" height="48" /></a><br/><strong>Webpack</strong></p> |
+|     9| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a><br/><strong>VS Code</strong></p> |
+|    10| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="48" height="48" /></a><br/><strong>ESLint</strong></p> |
+|    11| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="48" height="48" /></a><br/><strong>Prettier</strong></p> |
+|    12| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=babel" alt="Babel" width="48" height="48" /></a><br/><strong>Babel</strong></p> |
+|    13| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" /></a><br/><strong>Vite</strong></p> |
+|    14| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" /></a><br/><strong>Vercel</strong></p> |
 
 
 </details>
