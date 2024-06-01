@@ -2,8 +2,25 @@
 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-[![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=black)]()
+[![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=airplane&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=globe&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=lightbulb&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=book&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=mountain&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=tree&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=compass&logoColor=white)]()
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=sailboat&logoColor=white)]()
 
 
 <details>
