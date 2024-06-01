@@ -22,69 +22,70 @@
 
 <details>
 <summary> ⚖️ Acquainted Technologies</summary>
-
+  
 <table>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       <br /><strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       <br /><strong>HTML</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br /><strong>Linux</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="GIT" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
       <br /><strong>GIT</strong>
     </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       <br /><strong>Webpack</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br /><strong>VS Code</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
       <br /><strong>ESLint</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=prettier" width="48" height="48" alt="Prettier" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" />
       <br /><strong>Prettier</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" />
       <br /><strong>Babel</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
       <br /><strong>Vite</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
       <br /><strong>Vercel</strong>
     </td>
   </tr>
 </table>
+
 
 </details>
 
