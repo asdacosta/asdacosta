@@ -2,11 +2,7 @@
 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=chrome&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=artstation&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=black)]()
 
 
 
