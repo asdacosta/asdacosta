@@ -2,7 +2,7 @@
 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white)]()
 
 - 🌱 Currently focusing: [The Odin Project](https://www.theodinproject.com/)
 
