@@ -18,7 +18,7 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]()
 
 <details>
-<summary style="font-size: larger;">Acquainted Technologies ⚖️</summary>
+<summary style="font-size: 30px;">Acquainted Technologies ⚖️</summary>
 
 | Rank | Language     |
 |-----:|--------------|
