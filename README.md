@@ -18,7 +18,7 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]()
 
 <details>
-<summary>Acquainted Technologies ⚖️</summary>
+<summary style="font-size: larger;">Acquainted Technologies ⚖️</summary>
 
 | Rank | Language     |
 |-----:|--------------|
@@ -40,7 +40,7 @@
 </details>
 
 <p align='center'>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asdacosta&theme=blux&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 <picture>
