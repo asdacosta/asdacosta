@@ -17,8 +17,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]()
 
+<p align='center'>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+</p>
+
 <details>
-<summary style="font-size: 30px;">Acquainted Technologies ⚖️</summary>
+<summary>Acquainted Technologies ⚖️</summary>
 
 | Rank | Language     |
 |-----:|--------------|
@@ -38,10 +42,6 @@
 |    14| [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) |
 
 </details>
-
-<p align='center'>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
-</p>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
