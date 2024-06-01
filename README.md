@@ -3,11 +3,11 @@
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
+[![All major projects](https://img.shields.io/badge/All_major_projects-555555?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)]()
 [![blog](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=blogger&logoColor=white)]()
 [![portfolio](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=apple&logoColor=white)]()
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
 [![youtube](https://img.shields.io/badge/youtube-555555?style=for-the-badge&logo=youtube&logoColor=white)]()
-
 [![resume](https://img.shields.io/badge/resume-555555?style=for-the-badge&logo=4chan&logoColor=white)]()
 
 
