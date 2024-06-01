@@ -20,8 +20,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]()
 
+### 🔧 Technologies
 <details>
-<summary> ⚖️ Acquainted Technologies</summary>
+<summary> 🔽 </summary>
   
 <table>
   <tr>
