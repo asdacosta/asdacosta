@@ -2,23 +2,7 @@
 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=plastic&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-CCCCCC?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-C0C0C0?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-CD7F32?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-00FF00?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-800000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000080?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)]()
 
 <details>
 <summary>Acquainted Technologies Rank</summary>
