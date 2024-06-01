@@ -35,7 +35,7 @@
 |     8| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" /><br/><strong>Webpack</strong></p> |
 |     9| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br/><strong>VS Code</strong></p> |
 |    10| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" /><br/><strong>ESLint</strong></p> |
-|    11| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" /><br/><strong>Prettier</strong></p> |
+|    11| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" /><br/><strong>Prettier</strong></p> |
 |    12| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" /><br/><strong>Babel</strong></p> |
 |    13| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" /><br/><strong>Vite</strong></p> |
 |    14| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" /><br/><strong>Vercel</strong></p> |
