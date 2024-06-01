@@ -89,6 +89,8 @@
 
 </details>
 
+### 📈 Stats
+
 <p align='center'>
   <a href="https://github.com/asdacosta/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&theme=prussian&card_width=600&card_height=200" alt="Anurag's GitHub stats" />
