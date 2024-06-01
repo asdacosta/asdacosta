@@ -93,7 +93,7 @@
 
 <p align='center'>
   <a href="https://github.com/asdacosta/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&theme=prussian&card_width=600&card_height=200&rank_icon=github&show_owner=false" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&theme=prussian&card_width=600&card_height=200&rank_icon=github&show_owner=true" alt="GitHub stats" />
 </a>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
 </p>
