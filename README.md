@@ -9,7 +9,7 @@
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
 
 [![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)]()
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Mail](https://img.shields.io/badge/reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ### Socials 💬
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
