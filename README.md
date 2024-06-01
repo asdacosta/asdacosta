@@ -2,6 +2,8 @@
 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
+[![portfolio]()
+
 - 🌱 Currently focusing: [The Odin Project](https://www.theodinproject.com/)
 
 <details>
