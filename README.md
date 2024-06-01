@@ -6,6 +6,8 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-CCCCCC?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)]()
 
 <details>
