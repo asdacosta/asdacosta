@@ -87,6 +87,14 @@
   </tr>
 </table>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta" />
+</a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact)
 
 [![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta)](https://github.com/anuraghazra/github-readme-stats)
