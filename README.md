@@ -27,10 +27,11 @@
 </details>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://unsplash.com/photos/BxELNNMN88Y/download?force=true&w=640">
- <source media="(prefers-color-scheme: light)" srcset="https://unsplash.com/photos/BxELNNMN88Y/download?force=true&w=640">
- <img alt="YOUR-ALT-TEXT" src="https://unsplash.com/photos/BxELNNMN88Y/download?force=true&w=640">
+ <source media="(prefers-color-scheme: dark)" srcset="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
+ <img alt="DevOps Icons" src="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
 </picture>
+
 
 
 
