@@ -4,7 +4,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=plastic&logo=ko-fi&logoColor=white)]()
 
-- 🌱 Currently focusing: [The Odin Project](https://www.theodinproject.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=social&logo=ko-fi&logoColor=white)]()
 
 <details>
 <summary>Acquainted Technologies Rank</summary>
