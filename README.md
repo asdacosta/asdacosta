@@ -1,4 +1,4 @@
-## Bienvenue Dans Mon Monde De Développement :globe_with_meridians:
+## :globe_with_meridians: Bienvenue Dans Mon Monde De Développement 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
@@ -25,20 +25,21 @@
 
 | Rank | Language     |
 |-----:|--------------|
-|     1| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /> JavaScript |
-|     2| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /> CSS |
-|     3| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /> HTML |
-|     4| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /> React |
-|     5| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /> Node.js |
-|     6| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /> Linux |
-|     7| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" /> GIT |
-|     8| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" /> Webpack |
-|     9| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /> VS Code |
-|    10| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" /> ESLint |
-|    11| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" /> Prettier |
-|    12| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" /> Babel |
-|    13| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" /> Vite |
-|    14| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" /> Vercel |
+|     1| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/><strong>JavaScript</strong></p> |
+|     2| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br/><strong>CSS</strong></p> |
+|     3| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br/><strong>HTML</strong></p> |
+|     4| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br/><strong>React</strong></p> |
+|     5| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/><strong>Node.js</strong></p> |
+|     6| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br/><strong>Linux</strong></p> |
+|     7| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" /><br/><strong>GIT</strong></p> |
+|     8| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" /><br/><strong>Webpack</strong></p> |
+|     9| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br/><strong>VS Code</strong></p> |
+|    10| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" /><br/><strong>ESLint</strong></p> |
+|    11| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" /><br/><strong>Prettier</strong></p> |
+|    12| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" /><br/><strong>Babel</strong></p> |
+|    13| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" /><br/><strong>Vite</strong></p> |
+|    14| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" /><br/><strong>Vercel</strong></p> |
+
 
 </details>
 
