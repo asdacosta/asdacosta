@@ -4,7 +4,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=plastic&logo=ko-fi&logoColor=white)]()
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=social&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-0000FF?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)]()
 
