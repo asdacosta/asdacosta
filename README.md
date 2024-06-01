@@ -22,67 +22,70 @@
 
 ### 🔧 Technologies
 <details>
-<summary> </summary>
+<summary> Invert </summary>
   
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       <br /><strong>CSS</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       <br /><strong>HTML</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
       <br /><strong>GIT</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       <br /><strong>Webpack</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br /><strong>VS Code</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
       <br /><strong>ESLint</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" />
       <br /><strong>Babel</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
       <br /><strong>Vite</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
       <br /><strong>Vercel</strong>
     </td>
+    <td align="center" height="90" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+      <br /><strong>Jest</strong>
+    </td>
   </tr>
 </table>
-
 
 </details>
 
