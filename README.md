@@ -3,8 +3,8 @@
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
-[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=apple&logoColor=white)]()
-[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=apple&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
 
 
 
