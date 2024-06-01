@@ -22,7 +22,7 @@
 
 ### 🔧 Technologies
 <details>
-<summary> 🔽 </summary>
+<summary> </summary>
   
 <table>
   <tr>
