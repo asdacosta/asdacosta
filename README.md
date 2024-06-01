@@ -2,25 +2,38 @@
 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-[![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=airplane&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=globe&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=lightbulb&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=book&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=mountain&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=tree&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=compass&logoColor=white)]()
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=sailboat&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=crown&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=camera&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=umbrella&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=diamond&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=heart&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=palette&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=chess&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=guitar&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=mic&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=telescope&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=hourglass&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=lock&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=key&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=trophy&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=apple&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=brain&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=robot&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=truck&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=plane&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-555555?style=for-the-badge&logo=coffee&logoColor=white)]()
 
 
 <details>
