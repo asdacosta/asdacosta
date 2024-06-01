@@ -89,7 +89,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&layout=compact)](https://github.com/asdacosta/github-readme-stats)
 
 </details>
 
