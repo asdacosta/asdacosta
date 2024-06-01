@@ -23,16 +23,68 @@
 <details>
 <summary> ⚖️ Acquainted Technologies</summary>
 
-| | |
-|-----|-----|
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" /></a><br/><strong>JavaScript</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /></a><br/><strong>CSS</strong></p> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /></a><br/><strong>HTML</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a><br/><strong>React</strong></p> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a><br/><strong>Node.js</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a><br/><strong>Linux</strong></p> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="GIT" width="48" height="48" /></a><br/><strong>GIT</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="48" height="48" /></a><br/><strong>Webpack</strong></p> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a><br/><strong>VS Code</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="48" height="48" /></a><br/><strong>ESLint</strong></p> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="48" height="48" /></a><br/><strong>Prettier</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=babel" alt="Babel" width="48" height="48" /></a><br/><strong>Babel</strong></p> |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" /></a><br/><strong>Vite</strong></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" /></a><br/><strong>Vercel</strong></p> |
-
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br /><strong>Linux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="GIT" />
+      <br /><strong>GIT</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+      <br /><strong>Webpack</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" />
+      <br /><strong>ESLint</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=prettier" width="48" height="48" alt="Prettier" />
+      <br /><strong>Prettier</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
+      <br /><strong>Babel</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br /><strong>Vite</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br /><strong>Vercel</strong>
+    </td>
+  </tr>
+</table>
 
 </details>
 
