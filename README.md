@@ -8,6 +8,9 @@
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
 [![youtube](https://img.shields.io/badge/youtube-555555?style=for-the-badge&logo=youtube&logoColor=white)]()
 
+[![resume](https://img.shields.io/badge/resume-555555?style=for-the-badge&logo=4chan&logoColor=white)]()
+
+
 <details>
 <summary>Acquainted Technologies Rank</summary>
 
