@@ -39,10 +39,10 @@
 
 </details>
 
-<p align='center'>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=asdacosta&theme=blux" />
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
-</p>
+<picture align='center'>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=asdacosta&theme=blux" />
+    <img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
+</picture>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://image.shutterstock.com/z/stock-vector-vector-devops-icons-editable-stroke-software-1855780402.jpg">
