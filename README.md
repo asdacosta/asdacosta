@@ -1,4 +1,4 @@
-## :globe_with_meridians: Bienvenue Dans Mon Monde De Développement 
+## 🗺️ Bienvenue Dans Mon Monde De Développement 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 - 🌱 Currently Learning: [The Odin Project](https://www.theodinproject.com/)
