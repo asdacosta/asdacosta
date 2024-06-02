@@ -89,7 +89,7 @@
 </table>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&custom_title=Top%20%Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&hide_border=true&custom_title=Top%20%Languages" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time%20Stats&theme=prussian" alt="Your WakaTime Stats" />
@@ -101,10 +101,10 @@
 
 <p align='center'>
   <a href="https://github.com/asdacosta/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&theme=prussian&card_width=600&card_height=200&rank_icon=github&custom_title=Yearly%20Metrics" alt="GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&hide_border=true&theme=prussian&card_height=200&rank_icon=github&custom_title=Yearly%20Metrics" alt="GitHub stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=210" alt="GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_height=210" alt="GitHub Streak" />
   </a>
 </p>
 
