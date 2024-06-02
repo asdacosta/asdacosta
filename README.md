@@ -1,8 +1,9 @@
 ## :globe_with_meridians: Bienvenue Dans Mon Monde De Développement 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-- 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
-- 🌱 Currently developing: portfolio
+- 🌱 Currently Learning: [The Odin Project](https://www.theodinproject.com/)
+- 💻 Currently Developing: Portfolio
+- 📖 Currently Reading: 
 
 ### ⛓ Links 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
