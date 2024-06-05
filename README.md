@@ -1,8 +1,11 @@
 ## 🗺️ Bienvenue Dans Mon Monde De Développement 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-- 🌱 Currently Learning: [The Odin Project](https://www.theodinproject.com/)
-- 💻 Currently Developing: Portfolio
+- 🌱 Currently Learning:
+  * [The Odin Project](https://www.theodinproject.com/) - Full Stack Development
+  * [ALX](https://www.alxafrica.com/) - AI
+- 💻 Currently Developing:
+  * Portfolio
 - 📖 Currently Reading: 
 
 ### ⛓ Links 
@@ -90,10 +93,10 @@
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&hide_border=true&custom_title=Most%20Used%20On%20GitHub&card_width=470" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&hide_border=true&custom_title=Most%20Used%20On%20GitHub&card_width=500" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Duration%20In%20Code%20Editor&theme=prussian&layout=compact&card_width=470" alt="Time" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time%20In%20Code%20Editor&theme=prussian&layout=compact&card_width=500" alt="Time" />
   </a>
 </p>
 
