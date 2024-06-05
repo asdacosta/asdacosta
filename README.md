@@ -90,10 +90,10 @@
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&hide_border=true&custom_title=Top%20%Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=prussian&hide_border=true&custom_title=Most Used In GitHub" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time&theme=prussian&layout=compact" alt="Your WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time%20In%20Code%20Editor&theme=prussian&layout=compact" alt="Your WakaTime Stats" />
   </a>
 </p>
 
