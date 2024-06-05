@@ -7,7 +7,7 @@
 - 💻 Currently Developing:
   * Personal Website - [Portfolio](https://github.com/asdacosta/portfolio)
 - 📖 Currently Reading:
-  * None yet.
+  * HTML & CSS Design and Build Websites, Jon Duckett. 
 
 ### ⛓ Links 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
