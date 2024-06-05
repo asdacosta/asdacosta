@@ -2,11 +2,12 @@
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 - 🌱 Currently Learning:
-  * [The Odin Project](https://www.theodinproject.com/) - Full Stack Development
-  * [ALX](https://www.alxafrica.com/) - AI
+  * Full Stack Development - [The Odin Project](https://www.theodinproject.com/)
+  * AI - [ALX](https://www.alxafrica.com/)
 - 💻 Currently Developing:
-  * [Portfolio](https://github.com/asdacosta/portfolio) - Personal Website
-- 📖 Currently Reading: 
+  * Personal Website - [Portfolio](https://github.com/asdacosta/portfolio)
+- 📖 Currently Reading:
+  * None yet.
 
 ### ⛓ Links 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)]()
