@@ -5,7 +5,7 @@
   * [The Odin Project](https://www.theodinproject.com/) - Full Stack Development
   * [ALX](https://www.alxafrica.com/) - AI
 - 💻 Currently Developing:
-  * Portfolio
+  * [Portfolio](https://github.com/asdacosta/portfolio) - Personal Website
 - 📖 Currently Reading: 
 
 ### ⛓ Links 
