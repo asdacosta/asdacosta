@@ -103,7 +103,7 @@
 
 </details>
 
-### 📈 Stats
+### 📉 Stats
 
 <p align='center'>
   <a href="https://github.com/asdacosta/github-readme-stats">
