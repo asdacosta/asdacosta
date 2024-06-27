@@ -1,4 +1,4 @@
-## 🗺️ Bienvenue Dans Mon Monde De Développement 
+## 🗺 Mon Monde De Développement 
 > 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
 - 🌱 Currently Learning:
