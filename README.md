@@ -32,16 +32,10 @@
   <thead>
     <tr>
       <th>Languages</th>
-      <th>Front end</th>
-      <th>Front end</th>
-      <th>Front end</th>
-      <th>Backend</th>
-      <th>Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Row 1</th>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         <br /><strong>JavaScript</strong>
@@ -68,7 +62,6 @@
       </td>
     </tr>
     <tr>
-      <th scope="row">Row 2</th>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
         <br /><strong>GIT</strong>
@@ -95,7 +88,6 @@
       </td>
     </tr>
     <tr>
-      <th scope="row">Row 3</th>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
         <br /><strong>Vercel</strong>
