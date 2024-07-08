@@ -98,7 +98,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg" width="48" height="48" alt="Swiper" />
       <br /><strong>Swiper</strong>
     </td>
-       <td align="center" height="90" width="90">
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
       <br /><strong>Figma</strong>
     </td>
