@@ -102,6 +102,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
       <br /><strong>Figma</strong>
     </td>
+       <td align="center" height="90" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+      <br /><strong>Canva</strong>
+    </td>
   </tr>
 </table>
 
