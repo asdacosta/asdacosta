@@ -1,8 +1,7 @@
 ## 🗺 Mon Monde De Développement 
-> 📜 ~ Dream your biggest, work your hardest, and be your greatest.
 
-- 🌱 Currently Learning:
-  * Full Stack Development - [The Odin Project](https://www.theodinproject.com/)
+- 💡 Currently Learning:
+  * Back-end Development - [The Odin Project](https://www.theodinproject.com/)
   * AI - [ALX](https://www.alxafrica.com/)
 - 💻 Currently Developing:
   * Personal Website - [Portfolio](https://github.com/asdacosta/portfolio)
@@ -47,25 +46,25 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="90" width="90">
+       <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="90" width="90">
+       <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br /><strong>Linux</strong>
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
-      <br /><strong>GIT</strong>
     </td>
   </tr>
   <tr>
     <td align="center" height="90" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
+      <br /><strong>GIT</strong>
+    </td>
+    <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
       <br /><strong>Webpack</strong>
     </td>
-    <td align="center" height="90" width="90">
+       <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br /><strong>VS Code</strong>
     </td>
@@ -81,6 +80,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
       <br /><strong>Vite</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="90" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
       <br /><strong>Vercel</strong>
@@ -89,8 +90,21 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
       <br /><strong>Jest</strong>
     </td>
+    <td align="center" height="90" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="48" height="48" alt="Framer Motion" />
+      <br /><strong>Framer Motion</strong>
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg" width="48" height="48" alt="Swiper" />
+      <br /><strong>Swiper</strong>
+    </td>
+       <td align="center" height="90" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br /><strong>Figma</strong>
+    </td>
   </tr>
 </table>
+
 
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
