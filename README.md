@@ -91,7 +91,7 @@
       <br /><strong>Jest</strong>
     </td>
     <td align="center" height="90" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="48" height="48" alt="Framer Motion" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
       <br /><strong>Framer Motion</strong>
     </td>
     <td align="center" height="90" width="90">
