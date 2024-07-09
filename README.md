@@ -165,7 +165,7 @@
 <details>
 <summary> Invert </summary>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asdacosta&theme=tokyo-night&custom_title=Daily%20Contributions&hide_border=true&height=400&days=7&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asdacosta&theme=react&custom_title=Daily%20Contributions&hide_border=true&height=400&days=7&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -173,10 +173,10 @@
 
 <p align='center'>
   <a href="https://github.com/asdacosta/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&hide_border=true&theme=prussian&hide_rank=true&custom_title=Yearly%20Metrics" alt="GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&hide_border=true&theme=blux&hide_rank=true&custom_title=Yearly%20Metrics" alt="GitHub stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=asdacosta&theme=prussian&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_height=220" alt="GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=asdacosta&theme=blux&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_height=220" alt="GitHub Streak" />
   </a>
 </p>
 
