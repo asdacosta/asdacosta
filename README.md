@@ -1,4 +1,4 @@
-## 🗺 Mon Monde De Développement 
+## 🗺 Mon Monde De Dév
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&color=61DAFB&size=15&letterSpacing=0.05rem&duration=2000&vCenter=true&multiline=true&random=false&width=350&height=190&lines=%F0%9F%92%A1+Currently+Learning%3A;*+Back-end+Dev+-+The+Odin+Project;*+AI+-+ALX;+;%F0%9F%92%BB+Currently+Developing%3A;*+Portfolio+Website;+;%F0%9F%93%96+Currently+Reading%3A;*+Design+and+Build+Websites%2C+Jon+Duckett;+)](https://git.io/typing-svg)
 
