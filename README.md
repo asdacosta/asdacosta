@@ -17,7 +17,7 @@
 -->
 
 [![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
-[![Mail](https://img.shields.io/badge/reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
+[![Mail](https://img.shields.io/badge/connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
 
 ### 💬 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-silvanus-dacosta-99b9b41b8/)
