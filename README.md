@@ -51,11 +51,11 @@
 ### Tools
 <table>
   <tbody>
-      <td align="center" height="90" width="90">
+    <tr>
+       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br /><strong>Linux</strong>
       </td>
-    <tr>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
         <br /><strong>GIT</strong>
