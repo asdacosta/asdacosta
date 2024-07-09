@@ -176,7 +176,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=asdacosta&show=prs_merged_percentage&show_icons=true&hide_border=true&theme=react&hide_rank=true&custom_title=Yearly%20Metrics" alt="GitHub stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=asdacosta&theme=blux&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_height=220" alt="GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com?user=asdacosta&theme=blux&background=1E1E1E&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_height=220" alt="GitHub Streak" />
   </a>
 </p>
 
