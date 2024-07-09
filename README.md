@@ -135,6 +135,10 @@
 <table>
   <tbody>
     <tr>
+      <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" />
+        <br /><strong>React Router</strong>
+      </td>
        <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
         <br /><strong>NodeJS</strong>
