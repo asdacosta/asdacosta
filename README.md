@@ -10,7 +10,7 @@
 
 ### ⛓ Links 
 [![portfolio](https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=rocket&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
-[![major projects](https://img.shields.io/badge/major_projects-555555?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)]()
+[![major projects](https://img.shields.io/badge/major_projects-555555?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://github.com/asdacosta/major-projects)
 <!-- 
 [![blog](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=blogger&logoColor=white)]()
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
