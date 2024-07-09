@@ -27,13 +27,9 @@
 ### 🔧 Technologies
 <details>
 <summary> Invert </summary>
-  
+
+#### Languages
 <table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center" height="90" width="90">
@@ -41,26 +37,24 @@
         <br /><strong>JavaScript</strong>
       </td>
       <td align="center" height="90" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-        <br /><strong>CSS</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br /><strong>Python</strong>
       </td>
       <td align="center" height="90" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-        <br /><strong>HTML</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <br /><strong>C</strong>
       </td>
-      <td align="center" height="90" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <br /><strong>React</strong>
-      </td>
-      <td align="center" height="90" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br /><strong>Node.js</strong>
-      </td>
+    </tr>
+     </tbody>
+</table>
+
+### Tools
+<table>
+  <tbody>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         <br /><strong>Linux</strong>
       </td>
-    </tr>
     <tr>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="GIT" />
@@ -86,8 +80,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48" height="48" alt="Vite" />
         <br /><strong>Vite</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
         <br /><strong>Vercel</strong>
@@ -95,6 +87,26 @@
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
         <br /><strong>Jest</strong>
+      </td>
+    </tr>
+ </tbody>
+</table>
+<table>
+
+### Front-end
+  <tbody>
+    <tr>
+       <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+        <br /><strong>CSS</strong>
+      </td>
+      <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+        <br /><strong>HTML</strong>
+      </td>
+      <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br /><strong>React</strong>
       </td>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
@@ -111,6 +123,25 @@
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
         <br /><strong>Canva</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Back-end 
+  <tbody>
+    <tr>
+       <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <br /><strong>NodeJS</strong>
+      </td>
+      <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <br /><strong>MongoDB</strong>
+      </td>
+      <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="ExpressJS" />
+        <br /><strong>ExpressJS</strong>
       </td>
     </tr>
   </tbody>
