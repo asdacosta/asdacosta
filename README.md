@@ -165,7 +165,7 @@
 <details>
 <summary> Invert </summary>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asdacosta&theme=react&custom_title=Daily%20Contributions&hide_border=true&height=450&days=7&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asdacosta&theme=react&custom_title=Daily%20Contributions&hide_border=true&height=400&days=7&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
