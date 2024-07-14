@@ -8,9 +8,9 @@
 <!-- 
 [![blog](https://img.shields.io/badge/blog-555555?style=for-the-badge&logo=blogger&logoColor=white)]()
 [![platform](https://img.shields.io/badge/learning_platform-555555?style=for-the-badge&logo=lightning&logoColor=white)]()
+[![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
 -->
 
-[![resume](https://img.shields.io/badge/resume-111111?style=for-the-badge&logo=read.cv&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
 [![Mail](https://img.shields.io/badge/connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-asdacostas-projects.vercel.app/)
 
 ### 💬 Socials 
