@@ -147,6 +147,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="ExpressJS" />
         <br /><strong>ExpressJS</strong>
       </td>
+      <td align="center" height="90" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+  <br /><strong>PostgreSQL</strong>
+</td>
     </tr>
   </tbody>
 </table>
