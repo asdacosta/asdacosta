@@ -83,6 +83,10 @@
         <br /><strong>Vercel</strong>
       </td>
       <td align="center" height="90" width="90">
+        <img src="https://www.koyeb.com/static/images/icons/logo.svg" width="48" height="48" alt="Koyeb" />
+        <br /><strong>Koyeb</strong>
+      </td>
+      <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
         <br /><strong>Jest</strong>
       </td>
@@ -148,9 +152,13 @@
         <br /><strong>ExpressJS</strong>
       </td>
       <td align="center" height="90" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-  <br /><strong>PostgreSQL</strong>
-</td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+       <br /><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" height="90" width="90">
+       <img src="https://railway.app/brand/logo-light.svg" width="48" height="48" alt="Railway" />
+       <br /><strong>Railway</strong>
+      </td>
     </tr>
   </tbody>
 </table>
