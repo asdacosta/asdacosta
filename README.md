@@ -83,10 +83,6 @@
         <br /><strong>Vercel</strong>
       </td>
       <td align="center" height="90" width="90">
-        <img src="https://www.koyeb.com/static/images/icons/logo.svg" width="48" height="48" alt="Koyeb" />
-        <br /><strong>Koyeb</strong>
-      </td>
-      <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
         <br /><strong>Jest</strong>
       </td>
