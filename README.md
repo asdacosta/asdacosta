@@ -31,6 +31,10 @@
   <tbody>
     <tr>
       <td align="center" height="90" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <br /><strong>TypeScript</strong>
+      </td>
+      <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         <br /><strong>JavaScript</strong>
       </td>
