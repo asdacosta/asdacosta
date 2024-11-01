@@ -173,7 +173,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdacosta&layout=compact&theme=react&bg_color=282C34&hide_border=true&custom_title=Most%20Used%20On%20GitHub&card_width=500" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&custom_title=Time%20In%20Code%20Editor,%20June%202024%20-%20Present&theme=react&bg_color=282C34&layout=compact&card_width=500" alt="Time" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asdacosta&hide_border=true&locale=en&langs_count=9&custom_title=Time%20In%20Code%20Editor,%20June%202024%20-%20Present&theme=react&bg_color=282C34&layout=compact&card_width=500" alt="Time" />
   </a>
 </p>
 
