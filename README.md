@@ -167,18 +167,18 @@
         <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
         <br /><strong>Supabase</strong>
       </td>
-      <td align="center" height="90" width="90">
-  <img src="https://neon.tech/images/favicon.svg" width="48" height="48" alt="Neon" />
-  <br /><strong>Neon</strong>
-</td>
-<td align="center" height="90" width="90">
-  <img src="https://render.com/images/favicon.ico" width="48" height="48" alt="Render" />
-  <br /><strong>Render</strong>
-</td>
-<td align="center" height="90" width="90">
-  <img src="https://www.koyeb.com/images/favicon/favicon-96x96.png" width="48" height="48" alt="Koyeb" />
-  <br /><strong>Koyeb</strong>
-</td>
+    <td align="center" height="90" width="90">
+      <img src="https://neon.tech/_nuxt/img/logo.8cfaf04.svg" width="48" height="48" alt="Neon" />
+      <br /><strong>Neon</strong>
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="https://render.com/images/logos/render-logo-blue-fill.svg" width="48" height="48" alt="Render" />
+      <br /><strong>Render</strong>
+    </td>
+    <td align="center" height="90" width="90">
+      <img src="https://www.koyeb.com/images/logos/koyeb-logo.svg" width="48" height="48" alt="Koyeb" />
+      <br /><strong>Koyeb</strong>
+    </td>
     </tr>
   </tbody>
 </table>
