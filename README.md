@@ -163,6 +163,10 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" />
        <br /><strong>Prisma</strong>
       </td>
+      <td align="center" height="90" width="90">
+      <img src="https://supabase.com/logo.svg" width="48" height="48" alt="Supabase" />
+      <br /><strong>Supabase</strong>
+      </td>
     </tr>
   </tbody>
 </table>
