@@ -164,8 +164,8 @@
        <br /><strong>Prisma</strong>
       </td>
       <td align="center" height="90" width="90">
-      <img src="https://supabase.com/logo.svg" width="48" height="48" alt="Supabase" />
-      <br /><strong>Supabase</strong>
+        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
+        <br /><strong>Supabase</strong>
       </td>
     </tr>
   </tbody>
