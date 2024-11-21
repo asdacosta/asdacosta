@@ -167,18 +167,6 @@
         <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="48" height="48" alt="Supabase" />
         <br /><strong>Supabase</strong>
       </td>
-    <td align="center" height="90" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Neon_logo.svg/512px-Neon_logo.svg.png" width="48" height="48" alt="Neon" />
-      <br /><strong>Neon</strong>
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="https://render.com/images/favicon-192x192.png" width="48" height="48" alt="Render" />
-      <br /><strong>Render</strong>
-    </td>
-    <td align="center" height="90" width="90">
-      <img src="https://www.koyeb.com/static/logo-44d1c8b64aa7cb26b00e3ac4556d5db2.svg" width="48" height="48" alt="Koyeb" />
-      <br /><strong>Koyeb</strong>
-    </td>
     </tr>
   </tbody>
 </table>
