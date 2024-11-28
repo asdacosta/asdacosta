@@ -101,11 +101,11 @@
     <tr>
        <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-        <br /><strong>CSS</strong>
+        <br /><strong>CSS3</strong>
       </td>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-        <br /><strong>HTML</strong>
+        <br /><strong>HTML5</strong>
       </td>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
@@ -126,6 +126,10 @@
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
         <br /><strong>Canva</strong>
+      </td>
+      <td align="center" height="90" width="90">
+        <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="48" height="48" alt="Tailwind CSS" />
+        <br /><strong>Tailwind CSS</strong>
       </td>
     </tr>
   </tbody>
