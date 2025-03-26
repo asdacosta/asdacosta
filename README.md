@@ -46,35 +46,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
         <br /><strong>C</strong>
       </td>
-      <td align="center" height="90" width="90">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/typedotjs.svg" width="48" height="48" alt="Typed.js" />
-  <br /><strong>Typed.js</strong>
-</td>
-
-<td align="center" height="90" width="90">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/recharts.svg" width="48" height="48" alt="Recharts" />
-  <br /><strong>Recharts</strong>
-</td>
-
-<td align="center" height="90" width="90">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextdotjs.svg" width="48" height="48" alt="Next.js" />
-  <br /><strong>Next.js</strong>
-</td>
-
-<td align="center" height="90" width="90">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/lottiefiles.svg" width="48" height="48" alt="Lottie" />
-  <br /><strong>Lottie</strong>
-</td>
-
-<td align="center" height="90" width="90">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-maps.svg" width="48" height="48" alt="Google Maps" />
-  <br /><strong>Google Maps</strong>
-</td>
-
-<td align="center" height="90" width="90">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextdotjs.svg" width="48" height="48" alt="Next Themes" />
-  <br /><strong>Next Themes</strong>
-</td>
     </tr>
      </tbody>
 </table>
@@ -99,6 +70,35 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
         <br /><strong>VS Code</strong>
       </td>
+      <td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/stevenrhein/typed.js-logo/master/logo.svg" width="48" height="48" alt="Typed.js" />
+  <br /><strong>Typed.js</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Recharts" />
+  <br /><strong>Recharts</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+  <br /><strong>Next.js</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/LottieLogo.svg" width="48" height="48" alt="Lottie" />
+  <br /><strong>Lottie</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Google_Maps_icon_%282020%29.svg" width="48" height="48" alt="Google Maps" />
+  <br /><strong>Google Maps</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next Themes" />
+  <br /><strong>Next Themes</strong>
+</td>
       <td align="center" height="90" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
         <br /><strong>ESLint</strong>
