@@ -46,6 +46,35 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
         <br /><strong>C</strong>
       </td>
+      <td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/typedotjs.svg" width="48" height="48" alt="Typed.js" />
+  <br /><strong>Typed.js</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/recharts.svg" width="48" height="48" alt="Recharts" />
+  <br /><strong>Recharts</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextdotjs.svg" width="48" height="48" alt="Next.js" />
+  <br /><strong>Next.js</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/lottiefiles.svg" width="48" height="48" alt="Lottie" />
+  <br /><strong>Lottie</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-maps.svg" width="48" height="48" alt="Google Maps" />
+  <br /><strong>Google Maps</strong>
+</td>
+
+<td align="center" height="90" width="90">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextdotjs.svg" width="48" height="48" alt="Next Themes" />
+  <br /><strong>Next Themes</strong>
+</td>
     </tr>
      </tbody>
 </table>
