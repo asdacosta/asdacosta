@@ -74,9 +74,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
         <br /><strong>VS Code</strong>
       </td>
-
 <td align="center" height="90" width="90">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Google_Maps_icon_%282020%29.svg" width="48" height="48" alt="Google Maps" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-maps.svg" width="48" height="48" alt="Google Maps" />
   <br /><strong>Google Maps</strong>
 </td>
       <td align="center" height="90" width="90">
